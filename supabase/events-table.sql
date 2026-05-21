@@ -1,0 +1,2 @@
+-- Deprecated: the bulletin uses the guestbook table, not events.
+-- See guestbook-bulletin.sql for the abandoned-room trigger.
